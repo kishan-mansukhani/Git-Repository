@@ -1,0 +1,5 @@
+total 3
+-rw-r--r-- 1 MEA+Kishan.Mansukhani 4266656257 358 Oct 17 17:13 C:Userskishan.mansukhaniDesktopLunix
+-rw-r--r-- 1 MEA+Kishan.Mansukhani 4266656257  29 Oct 15 12:50 desktop
+-rw-r--r-- 1 MEA+Kishan.Mansukhani 4266656257 358 Oct 15 13:16 test1.txt
+-rw-r--r-- 1 MEA+Kishan.Mansukhani 4266656257   0 Oct 23 15:38 test4.txt
