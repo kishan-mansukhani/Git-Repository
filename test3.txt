@@ -1,0 +1,10 @@
+total 17K
+-rw-r--r-- 1 MEA+Kishan.Mansukhani 358 Oct 15 13:16 test1.txt
+drwxr-xr-x 1 MEA+Kishan.Mansukhani   0 Oct 23 15:34 ../
+-rw-r--r-- 1 MEA+Kishan.Mansukhani 358 Oct 23 15:43 C:Userskishan.mansukhaniDesktopLunix
+-rw-r--r-- 1 MEA+Kishan.Mansukhani 330 Oct 23 15:43 test4.txt
+-rw-r--r-- 1 MEA+Kishan.Mansukhani  29 Oct 23 15:43 desktop
+drwxr-xr-x 1 MEA+Kishan.Mansukhani   0 Oct 23 15:43 .git/
+-rw-r--r-- 1 MEA+Kishan.Mansukhani  75 Oct 23 15:46 test2.txt
+-rw-r--r-- 1 MEA+Kishan.Mansukhani   0 Oct 23 15:46 test3.txt
+drwxr-xr-x 1 MEA+Kishan.Mansukhani   0 Oct 23 15:46 ./
